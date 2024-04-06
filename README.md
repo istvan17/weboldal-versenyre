@@ -1,0 +1,1 @@
+Ez a veboldal nem teljesen az enyém. Az alapott le szedtem git-ről és ki egészítettem/változtattam elég nagy mértékben. Készült:2022 december közepén a Országos Szakképző Iskolai Közismereti Tanulmányi Versenyekre ahol országos 2. helyet értünk el.
