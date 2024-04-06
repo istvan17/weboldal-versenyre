@@ -1,0 +1,11 @@
+.hero-section{
+    background-image: url(https://turizmus.com/html/data/cikk/113/247/cikk_1130247/buckingham-palace.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.about-image-img-fluid{
+    width: 700px;
+    border-radius: 10px;
+}
+
